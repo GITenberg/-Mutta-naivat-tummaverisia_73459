@@ -1,0 +1,48 @@
+_repo: -Mutta-naivat-tummaverisia_73459
+_version: 0.0.1
+alternative_title: But gentlemen marry brunettes. Finnish
+contributor:
+  translator:
+    agent_name: Hedman, Valfrid
+    birthdate: 1872
+    deathdate: 1939
+    gutenberg_agent_id: '46070'
+    url: http://www.gutenberg.org/2009/agents/46070
+    wikipedia: https://fi.wikipedia.org/wiki/Valfrid_Hedman
+creator:
+  author:
+    agent_name: Loos, Anita
+    aliases:
+    - Emerson, John, Mrs.
+    - Loos, Corine Anita
+    - Loos, Corinne Anita
+    - Luus, Anita
+    birthdate: 1893
+    deathdate: 1981
+    gutenberg_agent_id: '48921'
+    url: http://www.gutenberg.org/2009/agents/48921
+    wikipedia: https://en.wikipedia.org/wiki/Anita_Loos
+description: 'Sequel to: "Herrat pitävät vaaleaverisistä", #73458.'
+gutenberg_issued: '2024-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73459'
+language: fi
+pgterms:marc905: 20240412021907loos
+pgterms:marc906: '1928'
+pgterms:marc907: FI
+production_note: Tuula Temonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto Oy, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous stories'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Diary fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Millionaires -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: '"... Mutta -- naivat tummaverisiä"'
+url: http://www.gutenberg.org/ebooks/73459
